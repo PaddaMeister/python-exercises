@@ -25,3 +25,14 @@ get you and why?
   *******
  *********
 ```
+
+1.a=6
+b=7
+c=a*a+b*b
+print (c)
+d=(c**0.5)
+print (d)
+
+2. You get 3, since it is the remainder of 17/5 and 3 is left over..
+
+3.
